@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook
+.ipynb_checkpoints
+
+# Mac OS
+.DS_Store
+
+# Model output files
+*.log
